@@ -52,7 +52,7 @@
         <dependency>
             <groupId>com.h3xstream.retirejs</groupId>
             <artifactId>retirejs-core</artifactId>
-            <version>3.0.1</version>
+            <version>3.0.3</version>
         </dependency>
 
 
