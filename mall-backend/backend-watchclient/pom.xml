@@ -52,7 +52,7 @@
         <dependency>
             <groupId>com.h3xstream.retirejs</groupId>
             <artifactId>retirejs-core</artifactId>
-            <version>3.0.1</version>
+            <version>3.0.2</version>
         </dependency>
 
 
@@ -136,7 +136,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
-            <version>2.0.4.RELEASE</version>
+            <version>2.1.0.RELEASE</version>
         </dependency>
 
 
@@ -274,7 +274,7 @@
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
             <artifactId>quartz</artifactId>
-            <version>2.2.1</version>
+            <version>2.3.0</version>
         </dependency>
 
         <dependency>
