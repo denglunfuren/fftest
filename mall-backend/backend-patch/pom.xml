@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
-            <version>2.0.4.RELEASE</version>
+            <version>3.1.0</version>
         </dependency>
 
 
@@ -108,7 +108,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
-            <version>2.0.4.RELEASE</version>
+            <version>4.1.0</version>
         </dependency>
 
 
